@@ -24,5 +24,3 @@ Available options:
     -r Reflection
     -s Sepia
 ```
----
->*This project was made for learning purposes only.*
